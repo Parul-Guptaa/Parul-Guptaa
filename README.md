@@ -19,13 +19,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul-guptaa&label=Profile%20views&color=0e75b6&style=flat" alt="parul-guptaa" /> </p>
 
-- 🔭 I’m currently working on **ChatGPT Clone**
+- 🔭 I’m currently working on **FoodDelivery**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Full-Stack**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **Backend**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **parulgtupa02204@gmail.com**
 
