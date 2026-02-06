@@ -39,47 +39,61 @@
 
 ---
 
-## 🧪 QA & Testing Skills
+##  QA & Testing Skills
 
-- ✅ Manual Testing (UI, Functional, Regression)
-- 🧾 Writing **Test Cases & Bug Reports**
-- 🌐 Web Testing (Forms, UI, Responsiveness)
-- 🔍 Understanding of:
+-  Manual Testing (UI, Functional, Regression)
+- Writing **Test Cases & Bug Reports**
+-  Web Testing (Forms, UI, Responsiveness)
+-  Understanding of:
   - SDLC & STLC  
   - Bug Life Cycle  
   - Severity vs Priority  
   - Smoke & Sanity Testing  
-- 🛠 Tools: **Postman (Basics), Chrome DevTools, Git**
-- 📊 Familiar with **API basics & HTTP status codes**
+-  Tools: **Postman (Basics), Chrome DevTools, Git**
+-  Familiar with **API basics & HTTP status codes**
 
 > *“Good software is built twice — once in code, once in testing.”*
 
 ---
 
-## 💻 Development Skills
+## Development Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+## QA & Testing
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test%20Cases-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bug%20Reporting-F44336?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression%20Testing-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Testing-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+---
+
+
+## Tools & Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
 ---
 
-## 🎨 Tools & Design
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parul-guptaa&show_icons=true&theme=rose_pine" />
