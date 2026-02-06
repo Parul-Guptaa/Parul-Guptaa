@@ -40,7 +40,7 @@
 <td width="50%" align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=parul-guptaa&show_icons=true&theme=rose_pine" />
+<img src="https://www.pixelstalk.net/cherry-blossom-backgrounds-hd-for-desktop/" />
 
 <br/><br/>
 
