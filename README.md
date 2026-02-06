@@ -22,10 +22,40 @@
 
 ---
 
-<!-- ================= BLOSSOM IMAGE ================= -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/9e/6e/8a/9e6e8a4bfa5c7c7aebd9a0f89c6d9f61.gif" width="450" alt="blossom coding"/>
-</div>
+## 🌸 GitHub Overview
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<!-- Blossom / Aesthetic Coding Image -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding blossom"/>
+
+<br/><br/>
+
+✨ *Code with creativity, test with care* ✨
+
+</td>
+
+<td width="50%" align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=parul-guptaa&show_icons=true&theme=rose_pine" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-guptaa&layout=compact&theme=rose_pine" />
+
+<br/><br/>
+
+<!-- Connect -->
+<a href="https://linkedin.com/in/www.linkedin.com/in/parul001-" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,28 +107,5 @@
   <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul-guptaa&show_icons=true&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-guptaa&layout=compact&theme=rose_pine" />
-</p>
-
----
-
-## 🤍 Let’s Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/parul001-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-</p>
-
----
 
 <h3 align="center">🌸 Thanks for stopping by — Code. Test. Improve. Repeat. 🌸</h3>
