@@ -29,13 +29,13 @@
 
 ---
 
-## 🌷 About Me
+## About Me
 
-- 👩‍💻 Frontend Developer with a **strong eye for UI & UX**
-- 🧪 Exploring **Software Testing / QA** alongside development
-- 🌱 Currently learning **Full-Stack Development**
-- 🔍 Interested in **finding bugs before users do**
-- 📫 Email: **parulgtupa02204@gmail.com**
+-  Frontend Developer with a **strong eye for UI & UX**
+-  Exploring **Software Testing / QA** alongside development
+-  Currently learning **Full-Stack Development**
+-  Interested in **finding bugs before users do**
+-  Email: **parulgtupa02204@gmail.com**
 
 
 > *“Good software is built twice — once in code, once in testing.”*
