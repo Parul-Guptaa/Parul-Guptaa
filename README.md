@@ -29,7 +29,7 @@
 <td width="50%" align="center">
 
 <!-- Blossom / Aesthetic Coding Image -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding blossom"/>
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding blossom](https://i.pinimg.com/originals/6a/ee/ea/6aeeea24e8fd4023a349e354eefa33ed.gif)"/>
 
 <br/><br/>
 
