@@ -37,20 +37,6 @@
 - 🔍 Interested in **finding bugs before users do**
 - 📫 Email: **parulgtupa02204@gmail.com**
 
----
-
-##  QA & Testing Skills
-
--  Manual Testing (UI, Functional, Regression)
-- Writing **Test Cases & Bug Reports**
--  Web Testing (Forms, UI, Responsiveness)
--  Understanding of:
-  - SDLC & STLC  
-  - Bug Life Cycle  
-  - Severity vs Priority  
-  - Smoke & Sanity Testing  
--  Tools: **Postman (Basics), Chrome DevTools, Git**
--  Familiar with **API basics & HTTP status codes**
 
 > *“Good software is built twice — once in code, once in testing.”*
 
